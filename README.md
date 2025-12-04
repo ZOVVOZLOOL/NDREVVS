@@ -26,6 +26,15 @@
 <img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/db99479b-7303-48c7-af90-7b16843ce1ed" />
 <img width="1905" height="860" alt="image" src="https://github.com/user-attachments/assets/e3b60c49-6410-4594-9a6e-0964f356d4a1" />
 
+Задание №3  
+1. bid
+2. Проверить права доступа пользователя к ресурсу на сервере
+
+Задание №4  
+<script>alert(document.cookie)</script>
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/4b9979e2-0b1e-4e57-9e04-759731ee64b5" />
+
+
 
 
 
