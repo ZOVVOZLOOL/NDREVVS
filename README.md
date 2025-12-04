@@ -23,6 +23,8 @@
 5. Использование принципа наименьших привилегий, ограничение длинны ввода.
 
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/a95dccdd-b94e-4f09-a9b2-6a65a7552caf" />
+<img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/db99479b-7303-48c7-af90-7b16843ce1ed" />
+
 
 
 
